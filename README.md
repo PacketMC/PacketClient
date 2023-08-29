@@ -2,5 +2,5 @@
 PacketClient V2.3 Original Releases
 
 # How to use?\n
-**Step1.** Download __DLL__ From Releases\n
+**Step1.** Download __DLL__ From Releases
 **Step2.** Inject minecraft
